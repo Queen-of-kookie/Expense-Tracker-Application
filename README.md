@@ -1,6 +1,5 @@
-# demo
+# Expense Tracker Application Using Flutter
 
-A new Flutter project.
 
 ## Getting Started
 
